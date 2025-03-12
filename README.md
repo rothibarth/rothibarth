@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Olá, eu sou o **Felipe Rafael Rothbarth**!
 
-<!--
-**rothibarth/Rothibarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e trabalho na área automotiva, mas minha paixão é a programação e banco de dados.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+🔹 **Linguagens e Tecnologias:**
+![HTML](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-red?style=for-the-badge&logo=java&logoColor=white)
+![POO](https://img.shields.io/badge/-POO-green?style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+🔹 **Banco de Dados:**
+![MySQL](https://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## 📫 Contato
+
+🔗 [LinkedIn](https://www.linkedin.com/in/felipe-rafael-rothbarth-3666a2266/)
+📷 [Instagram](https://instagram.com/feliperothbarth/)
+📧 Email: **felipe.rothbarth@gmail.com**
+
+---
+
+🎯 Sempre aberto a novos desafios e oportunidades! 
