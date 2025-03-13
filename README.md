@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o **Felipe Rafael Rothbarth**!
 
-Sou apaixonado por tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Atualmente, estudo **Análise e Desenvolvimento de Sistemas** e trabalho na área automotiva, mas minha paixão é a programação e banco de dados.
+Estudo tecnologia e desenvolvimento de software, sempre buscando aprender novas ferramentas e melhorar minhas habilidades. Atualmente, curso Análise e Desenvolvimento de Sistemas e trabalho na área automotiva, mas meu foco principal é programação e banco de dados.
 
 ---
 
