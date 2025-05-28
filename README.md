@@ -16,6 +16,8 @@ Sou apaixonado por tecnologia e desenvolvimento de software, sempre em busca de 
 
 ---
 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rothibarth&show_icons=true&theme=radical)
+
 ## 📫 Contato
 
 🔗 [LinkedIn](https://www.linkedin.com/in/felipe-rafael-rothbarth-3666a2266/)  
