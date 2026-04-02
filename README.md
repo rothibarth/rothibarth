@@ -1,6 +1,6 @@
 ### 👋 Olá, eu sou o Felipe Rafael Rothbarth!
 
-Sou desenvolvedor Web Júnior, graduado pelo **UNISENAI JOINVILLE**. Sou apaixonado por resolver problemas através do código e estou constantemente aprimorando meu ecossistema de desenvolvimento.
+Sou desenvolvedor Web Júnior, graduado em **Análise e Desenvolvimento de Sistemas** (UNISENAI) e atualmente pós-graduando em **Arquitetura e Infraestrutura de TI** (Faculvale). Sou apaixonado por resolver problemas através do código e por entender como construir arquiteturas sólidas e escaláveis.
 
 ---
 
