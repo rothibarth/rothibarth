@@ -19,10 +19,11 @@ Sou desenvolvedor Web Júnior, graduado em **Análise e Desenvolvimento de Siste
 
 ## 📊 Estatísticas e Atividade
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rothibarth&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rothibarth&theme=radical" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=rothibarth&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rothibarth&theme=radical" alt="GitHub Streak" />
+</p>
+
 ---
 
 ## 📫 Vamos nos conectar?
